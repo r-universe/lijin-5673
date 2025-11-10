@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "LJexm"]
+	path = LJexm
+	url = https://github.com/lijin-5673/ljexm
+[submodule "LJmp3converter"]
+	path = LJmp3converter
+	url = https://github.com/lijin-5673/ljmp3converter

@@ -8,3 +8,6 @@
 [submodule "LJmp3converter"]
 	path = LJmp3converter
 	url = https://github.com/lijin-5673/ljmp3converter
+[submodule "html2pdfR"]
+	path = html2pdfR
+	url = https://github.com/lijin-5673/html2pdfr
